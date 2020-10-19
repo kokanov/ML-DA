@@ -1,0 +1,6 @@
+.directory
+.ipynb_checkpoints
+data
+app/technology
+*.pyc
+.idea
