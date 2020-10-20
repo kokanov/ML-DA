@@ -10,19 +10,20 @@ Docker
 
 
 ## launching 
-
-    Linux: run in console 
-        ``` 
-        sh build.sh 
-        ```
-        The script will do everything automatically. 
-        All that remains is to copy the link to Jupyter (with the token) into the address bar of your browser & to press "Enter".
+### Script:
+#### Linux: 
+run in console 
+``` 
+    sh build.sh 
+```
+The script will do everything automatically. 
+All that remains is to copy the link to Jupyter (with the token) into the address bar of your browser & to press "Enter".
 	
-    Windows: run in wsl console 
-	``` 
-	sh build.sh 
-	
-	```
+#### Windows: 
+run in wsl console 
+``` 
+    sh build.sh 	
+```
 
 
 <b>OR</b>
@@ -40,5 +41,5 @@ Docker
                     tf:2.3.1-gpu-jupyter
 ```
 ### Open in browser:
-    Copy the link to Jupyter (with the token) into the address bar of your browser & to press "Enter"    
+Copy the link to Jupyter (with the token) into the address bar of your browser & to press "Enter"    
 
