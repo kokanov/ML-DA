@@ -11,11 +11,18 @@ Docker
 
 ## launching 
 
-    Linux: run in console ```sh build.sh```
-	       The script will do everything automatically. 
-	       All that remains is to copy the link to Jupyter (with the token) into the address bar of your browser & to press "Enter".
+    Linux: run in console 
+        ``` 
+        sh build.sh 
+        ```
+        The script will do everything automatically. 
+        All that remains is to copy the link to Jupyter (with the token) into the address bar of your browser & to press "Enter".
 	
-	Windows: run in wsl console ```sh build.sh```
+    Windows: run in wsl console 
+	``` 
+	sh build.sh 
+	
+	```
 
 
 <b>OR</b>
